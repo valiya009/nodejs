@@ -1,0 +1,8 @@
+hello world
+
+function test()
+{
+
+}
+
+onclick=test()
